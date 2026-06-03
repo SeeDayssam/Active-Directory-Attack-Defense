@@ -1,5 +1,7 @@
 # Active-Directory-Attack-Defense
 
+https://docs.google.com/document/d/1BIFRljmji7dynt5cNMbKYZWSVLbD81Lmsx1strqZ7Sg/edit?usp=sharing
+
 # 🛡️ Enterprise Active Directory Attack & Defense
 
 > **Not beginner friendly** — Expect struggle & troubleshooting
